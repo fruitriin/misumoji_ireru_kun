@@ -1,0 +1,10 @@
+[
+    {
+      "domain": "misskey.example.com",
+      "token": "XXXXXXXXXXXXXXXXXXXXXX"
+    },
+    {
+      "domain": "anotherdomain.com",
+      "token": "mytoken2"
+    }
+  ]
